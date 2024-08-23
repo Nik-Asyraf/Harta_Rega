@@ -73,3 +73,17 @@ The objective of this study is to develop a comprehensive model to accurately de
     <img src="gantt chart.png" alt="Logo" width="700" height="450">
   </a>
 
+## Contact
+
+1. Nik Asyraf -  - [Github]((https://github.com/Nik-Asyraf) 
+
+2. Hakim -  - [Github](https://github.com/Hulkim-Wise)
+
+3. Fahmi Rahman -  - [Github](https://github.com/FahmiRahman)
+
+
+## Appreciation
+
+We want to take a moment to express our heartfelt gratitude to Dr. Fairoza Amira Binti Hamzah. Your guidance, patience, and dedication have made a profound on us. You've not only shared your knowledge but also inspired us to grow, learn, and push beyond our limits. Thank you for being a mentor and a source of encouragement.
+
+Dr. Fairoza Amira - [LinkedIn](https://www.linkedin.com/in/fairoza-amira-binti-hamzah) - [Github](https://github.com/FairozaAmira) - [Gmail](mailto:fairozaamira@gmail.com)
