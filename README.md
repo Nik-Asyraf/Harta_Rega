@@ -22,7 +22,7 @@ Accurate determination of house prices is crucial for various stakeholders, incl
 ## Flow Chart
 
   <h1 align="center"><a href="(https://github.com/Nik-Asyraf/Harta_Rega)t">
-    <img src="Flow  chart.png" alt="Logo" width="600" height="300">
+    <img src="Flow  chart.png" alt="Logo" width="700" height="450">
   </a>
 
 ## Project Objective
