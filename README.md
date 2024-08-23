@@ -7,6 +7,20 @@
 Sales Price Predictions for Houses in Malaysia</h1>
 <h2><p align="center">
 
+## Content
+
+- **Background of the Idea**
+- **Team Structure**
+- **Flowchart**
+- **Problem Statement**
+- **Objectives**
+- **KPIs**
+- **Risk Impact**
+- **Schedule**
+- **Solutions**
+- **Future Improvements & Applications**
+
+
 ## Background of The Project
 
 The real estate market in Malaysia is a dynamic and evolving sector, influenced by a range of economic, social, and demographic factors. As one of Southeast Asia’s rapidly developing nations, Malaysia has experienced significant growth in both its urban and rural areas, impacting housing demand and property values.
@@ -52,4 +66,10 @@ Income levels, demographic shifts, and other socioeconomic variables impacting r
 
 1. [Malaysian condominium prices data](https://www.kaggle.com/datasets/mcpenguin/raw-malaysian-housing-prices-data)
 2. [Property listings in Kuala Lumpur](https://www.kaggle.com/datasets/dragonduck/property-listings-in-kuala-lumpur)
+
+## Gantt Chart
+
+<h1 align="center"><a href="(https://github.com/Nik-Asyraf/Harta_Rega)t">
+    <img src="gantt chart.png" alt="Logo" width="700" height="450">
+  </a>
 
