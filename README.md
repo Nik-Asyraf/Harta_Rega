@@ -84,6 +84,6 @@ The objective of this study is to develop a comprehensive model to accurately de
 
 ## Appreciation
 
-We want to take a moment to express our heartfelt gratitude to Dr. Fairoza Amira Binti Hamzah. Your guidance, patience, and dedication have made a profound on us. You've not only shared your knowledge but also inspired us to grow, learn, and push beyond our limits. Thank you for being a mentor and a source of encouragement.
+We want to take a moment to express our heartfelt gratitude to Dr. Fairoza Amira Binti Hamzah. Your guidance, patience, and dedication have made a profound impact on us. You've not only share your knowledge but also inspire us to grow, learn, and push beyond our limits. Thank you for being a mentor and a source of encouragement. We are truly grateful for your dedication and knowledge.
 
 Dr. Fairoza Amira - [LinkedIn](https://www.linkedin.com/in/fairoza-amira-binti-hamzah) - [Github](https://github.com/FairozaAmira) - [Gmail](mailto:fairozaamira@gmail.com)
