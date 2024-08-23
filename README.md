@@ -29,14 +29,14 @@ Accurate determination of house prices is crucial for various stakeholders, incl
 
 The objective of this study is to develop a comprehensive model to accurately determine and predict house prices in Malaysia. This model will cover both condominiums and landed houses, accounting for key influencing factors such as:
 
-1.**Location**:
-Urban versus rural settings, proximity to amenities, and regional economic conditions.
+1. **Location**:
+-Urban versus rural settings, proximity to amenities, and regional economic conditions.
 
-2.**Property Characteristics**:
-Size, age, condition, and type of property (e.g., luxury vs. standard).
+2. **Property Characteristics**:
+-Size, age, condition, and type of property (e.g., luxury vs. standard).
 
-2.**Market Trends**:
-Current market conditions, historical price trends, and economic indicators.
+2. **Market Trends**:
+-Current market conditions, historical price trends, and economic indicators.
 
-3.**Socioeconomic Factors**:
-Income levels, demographic shifts, and other socioeconomic variables impacting real estate values.
+3. **Socioeconomic Factors**:
+-Income levels, demographic shifts, and other socioeconomic variables impacting real estate values.
