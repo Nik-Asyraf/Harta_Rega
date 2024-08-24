@@ -73,6 +73,10 @@ The objective of this study is to develop a comprehensive model to accurately de
     <img src="gantt chart.png" alt="Logo" width="700" height="450">
   </a>
 
+## Google Slide
+
+[Google Slide](https://docs.google.com/presentation/d/1LI8LLS3Gih7CDsedj_p9OCxq9M-wI-_THWCdk8aq3Pg/edit#slide=id.g2f3acec53e3_1_5)
+
 ## Contact
 
 1. Nik Asyraf -  - [Github](https://github.com/Nik-Asyraf) 
@@ -80,6 +84,7 @@ The objective of this study is to develop a comprehensive model to accurately de
 2. Hakim -  - [Github](https://github.com/Hulkim-Wise)
 
 3. Fahmi Rahman -  - [Github](https://github.com/FahmiRahman)
+   
 
 
 ## Appreciation
