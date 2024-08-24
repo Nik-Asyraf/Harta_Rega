@@ -75,7 +75,7 @@ The objective of this study is to develop a comprehensive model to accurately de
 
 ## Contact
 
-1. Nik Asyraf -  - [Github]((https://github.com/Nik-Asyraf) 
+1. Nik Asyraf -  - [Github](https://github.com/Nik-Asyraf) 
 
 2. Hakim -  - [Github](https://github.com/Hulkim-Wise)
 
