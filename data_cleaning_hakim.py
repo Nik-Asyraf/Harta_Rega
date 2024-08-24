@@ -7,7 +7,7 @@ import matplotlib.pyplot as plt
 
 #Retrive dataset
 
-df1 = pd.read_csv('/home/hulkim/Documents/FInal Project/Harta_Rega/houses.csv')
+df1 = pd.read_csv('houses.csv')
 
 
 df1.info()
