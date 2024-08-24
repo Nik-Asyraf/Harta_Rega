@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
   <h1 align="center"><a href="(https://github.com/Nik-Asyraf/Harta_Rega)t">
-    <img src="Harta Rega.jpeg" alt="Logo" width="400" height="264">
+    <img src="/src/Harta Rega.jpeg" alt="Logo" width="400" height="264">
   </a>
 
 Sales Price Predictions for Houses in Malaysia</h1>
@@ -30,13 +30,13 @@ Accurate determination of house prices is crucial for various stakeholders, incl
 ## Team Structure
 
 <h1 align="center"><a href="(https://github.com/Nik-Asyraf/Harta_Rega)t">
-<img src="Team Structure.png" alt="Logo" width="400" height="264">
+<img src="/src/Team Structure.png" alt="Logo" width="400" height="264">
 </a>
 
 ## Flow Chart
 
   <h1 align="center"><a href="(https://github.com/Nik-Asyraf/Harta_Rega)t">
-    <img src="Flow  chart.png" alt="Logo" width="700" height="450">
+    <img src="/src/Flow  chart.png" alt="Logo" width="700" height="450">
   </a>
 
 ## Problem Statements
@@ -70,8 +70,31 @@ The objective of this study is to develop a comprehensive model to accurately de
 ## Gantt Chart
 
 <h1 align="center"><a href="(https://github.com/Nik-Asyraf/Harta_Rega)t">
-    <img src="gantt chart.png" alt="Logo" width="700" height="450">
+    <img src="/src/gantt chart.png" alt="Logo" width="700" height="450">
   </a>
+
+## Getting-Started
+So, we can start by creating new environment after make branch
+
+## Setup the Environment
+
+* Create a virtual env and activate it
+```
+python -m venv venv
+python -m venv env (for Windows)
+python3 -m venv venv
+source venv/bin/activate
+.\env\Scripts\activate(for Windows)
+.\.venv\Scripts\activate
+```
+
+## Installation 
+```
+pip install --upgrade pip
+pip install -r requirements.txt
+pip install pandas
+pip install jupyter
+```
 
 ## Contact
 
